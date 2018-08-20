@@ -1,1 +1,2 @@
 sixth file
+changed in terminal
